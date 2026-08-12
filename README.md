@@ -26,11 +26,11 @@
     <td width="68%">
       <h1>MADINENI PRADEEP NAIDU</h1>
       <p>
-        <strong>PYTHON FULL STACK DEVELOPER</strong><br>
+        <strong>PYTHON DEVELOPER</strong><br>
         <strong>FLASK • SQL • WEB • DATA SCIENCE</strong>
       </p>
       <pre>
-ID           : PRD-2026
+NAME         : PRADEEP
 STATUS       : ONLINE
 ROLE         : FULL STACK DEVELOPER
 EDUCATION    : B.TECH CSE • 2026
