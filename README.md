@@ -203,21 +203,11 @@ I enjoy transforming ideas into real-world projects by combining programming, da
 </p>
 
 ---
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Madineni-Pradeep-Naidu&theme=dark&hide_border=true&background=0D1117&stroke=00D4FF&ring=00FF41&fire=00FF41&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=8B949E" alt="Contribution Streak"> </p>
 
 <!-- ============================================================ -->
 <!--                  SECTION 4: DEVELOPMENT PROCESS               -->
 <!-- ============================================================ -->
-
-┌────────────────────────────────────────────────────┐
-│               CURRENT PROJECTS                      │
-├────────────────────────────────────────────────────┤
-│ [✓] PYTHON APPLICATIONS                            │
-│ [✓] FLASK WEB APPS                                 │
-│ [✓] SQL DATABASE PROJECTS                          │
-│ [✓] FULL STACK WEBSITES                            │
-│ [✓] DATA SCIENCE ANALYSIS                          │
-│ [✓] WEB DEVELOPMENT PROJECTS                       │
-└────────────────────────────────────────────────────┘
 ## 🔄 My Development Process
 
 ```text
