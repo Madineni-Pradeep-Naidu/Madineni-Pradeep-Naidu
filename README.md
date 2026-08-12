@@ -65,4 +65,39 @@ I'm a **Python Full Stack Developer** who builds websites using Flask, works wit
 
 ---
 
+
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Madineni-Pradeep-Naidu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=E6EDF3&icon_color=00D4FF&ring_color=00FF41" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madineni-Pradeep-Naidu&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=E6EDF3" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Madineni-Pradeep-Naidu&theme=dark&hide_border=true&background=0D1117&stroke=00D4FF&ring=00FF41&fire=00FF41">
+</p>
+
+---
+
+## 🔗 Connect
+
+<p align="center">
+  <a href="https://github.com/Madineni-Pradeep-Naidu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Madineni-Pradeep-Naidu&label=Profile%20Views&color=00ff41&style=for-the-badge">
+</p>
+
+---
+
+**💡 "Code. Build. Deploy. Repeat."**
 **🚀 Building the future with Python, Flask & SQL**
