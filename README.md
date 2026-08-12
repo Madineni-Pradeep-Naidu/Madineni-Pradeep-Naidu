@@ -202,7 +202,7 @@ I enjoy transforming ideas into real-world projects by combining programming, da
 ---
 
 <!-- ============================================================ -->
-<!--                  SECTION 4: DEVELOPMENT PROCESS               -->
+<!--              SECTION 4: DEVELOPMENT PROCESS                  -->
 <!-- ============================================================ -->
 
 ## 🔄 My Development Process
@@ -231,25 +231,21 @@ I enjoy transforming ideas into real-world projects by combining programming, da
 
 ## 📊 GitHub Statistics
 
-<table>
-  <tr>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Madineni-Pradeep-Naidu&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=E6EDF3&icon_color=00D4FF"
+    alt="GitHub Statistics"
+  />
+</p>
 
-    <td align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Madineni-Pradeep-Naidu&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=E6EDF3&icon_color=00D4FF&ring_color=00FF41"
-        alt="GitHub Statistics"
-      >
-    </td>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madineni-Pradeep-Naidu&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=E6EDF3"
+    alt="Top Languages"
+  />
+</p>
 
-    <td align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madineni-Pradeep-Naidu&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=E6EDF3&icon_color=00D4FF"
-        alt="Top Languages"
-      >
-    </td>
-
-  </tr>
-</table>
+---
 
 ## 🔥 Contribution Streak
 
@@ -257,10 +253,8 @@ I enjoy transforming ideas into real-world projects by combining programming, da
   <img
     src="https://streak-stats.demolab.com?user=Madineni-Pradeep-Naidu&theme=dark&hide_border=true&background=0D1117&stroke=00D4FF&ring=00FF41&fire=00FF41&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=8B949E"
     alt="Contribution Streak"
-  >
+  />
 </p>
-
----
 
 <!-- ============================================================ -->
 <!--              SECTION 6: PROJECTS & BUILDING                   -->
