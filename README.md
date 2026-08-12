@@ -59,20 +59,30 @@ ACCESS LEVEL : DEVELOPER
 </p>
 
 <!-- ============================================================ -->
-<!--                      HEADER                                   -->
+<!--              NEW HEADER STYLE (GLOW EFFECT)                   -->
 <!-- ============================================================ -->
 
-<h1 align="center">MADINENI PRADEEP NAIDU</h1>
+<h1 align="center">
+  <span style="background: linear-gradient(45deg, #00FF41, #00D4FF, #7C3AED); 
+               -webkit-background-clip: text; 
+               -webkit-text-fill-color: transparent;
+               font-weight: 900;
+               font-size: 48px;
+               text-shadow: 0 0 30px rgba(0, 255, 65, 0.3);">
+    MADINENI PRADEEP NAIDU
+  </span>
+</h1>
 
 <p align="center">
-  <strong>PYTHON FULL STACK DEVELOPER • FLASK • SQL • WEB</strong>
+  <strong>🐍 PYTHON FULL STACK DEVELOPER • ⚡ FLASK • 🗄️ SQL • 🌐 WEB</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-00FF41?style=flat-square&labelColor=0D1117&color=00FF41">
-  <img src="https://img.shields.io/badge/FLASK-00D4FF?style=flat-square&labelColor=0D1117&color=00D4FF">
-  <img src="https://img.shields.io/badge/SQL-7C3AED?style=flat-square&labelColor=0D1117&color=7C3AED">
-  <img src="https://img.shields.io/badge/WEB-E6EDF3?style=flat-square&labelColor=0D1117&color=E6EDF3">
+  <img src="https://img.shields.io/badge/PYTHON-00FF41?style=for-the-badge&labelColor=0D1117&color=00FF41">
+  <img src="https://img.shields.io/badge/FLASK-00D4FF?style=for-the-badge&labelColor=0D1117&color=00D4FF">
+  <img src="https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge&labelColor=0D1117&color=7C3AED">
+  <img src="https://img.shields.io/badge/WEB-E6EDF3?style=for-the-badge&labelColor=0D1117&color=E6EDF3">
+  <img src="https://img.shields.io/badge/DATA%20SCIENCE-FF6B6B?style=for-the-badge&labelColor=0D1117&color=FF6B6B">
 </p>
 
 ---
@@ -96,42 +106,67 @@ I enjoy transforming ideas into real-world projects by combining programming, da
 ---
 
 <!-- ============================================================ -->
-<!--                  SECTION 2: CORE SKILLS                       -->
+<!--           NEW CORE SKILLS STYLE (CARDS WITH ICONS)           -->
 <!-- ============================================================ -->
 
 ## 🛠️ My Core Skills
 
-### 🐍 Python & Backend
-- Python Programming
-- Flask Framework
-- REST APIs
-- Object-Oriented Programming
-- File Handling & Automation
-- Problem Solving
-
-### 🌐 Web Development
-- HTML5
-- CSS3
-- JavaScript
-- Flask Templates (Jinja2)
-- Responsive Design
-- Web Applications
-
-### 🗄️ Databases
-- SQL
-- SQLite
-- Backendless
-- MySQL
-- Database Design
-- Query Optimization
-
-### 📊 Data Science
-- Data Analysis
-- Pandas
-- NumPy
-- Data Visualization
-- Data Cleaning
-- Statistical Analysis
+<table>
+  <tr>
+    <td width="25%" align="center" style="border: 2px solid #00FF41; border-radius: 10px; padding: 15px;">
+      <br>
+      <img src="https://img.icons8.com/color/96/000000/python.png" width="60" height="60" alt="Python">
+      <h3 style="color: #00FF41;">🐍 Python</h3>
+      <p>
+        <strong>Backend Development</strong><br>
+        Flask Framework<br>
+        REST APIs<br>
+        OOP & Automation<br>
+        Problem Solving
+      </p>
+      <br>
+    </td>
+    <td width="25%" align="center" style="border: 2px solid #00D4FF; border-radius: 10px; padding: 15px;">
+      <br>
+      <img src="https://img.icons8.com/color/96/000000/html-5.png" width="60" height="60" alt="Web">
+      <h3 style="color: #00D4FF;">🌐 Web</h3>
+      <p>
+        <strong>Frontend & Backend</strong><br>
+        HTML5 & CSS3<br>
+        JavaScript<br>
+        Flask Templates<br>
+        Responsive Design
+      </p>
+      <br>
+    </td>
+    <td width="25%" align="center" style="border: 2px solid #7C3AED; border-radius: 10px; padding: 15px;">
+      <br>
+      <img src="https://img.icons8.com/color/96/000000/sql.png" width="60" height="60" alt="SQL">
+      <h3 style="color: #7C3AED;">🗄️ SQL</h3>
+      <p>
+        <strong>Database Management</strong><br>
+        SQL & SQLite<br>
+        MySQL<br>
+        Database Design<br>
+        Query Optimization
+      </p>
+      <br>
+    </td>
+    <td width="25%" align="center" style="border: 2px solid #FF6B6B; border-radius: 10px; padding: 15px;">
+      <br>
+      <img src="https://img.icons8.com/color/96/000000/data-configuration.png" width="60" height="60" alt="Data Science">
+      <h3 style="color: #FF6B6B;">📊 Data Science</h3>
+      <p>
+        <strong>Data Analysis</strong><br>
+        Pandas & NumPy<br>
+        Data Visualization<br>
+        Data Cleaning<br>
+        Statistical Analysis
+      </p>
+      <br>
+    </td>
+  </tr>
+</table>
 
 ---
 
