@@ -83,3 +83,7 @@ EDUCATION  : B.Tech CSE • Batch 2026
 FOCUS      : Python • SQL • Data Science • Web Development
 TOOLS      : Power BI • Excel • MySQL • Flask
 STATUS     : BUILDING
+
+
+$ core_domains — CORE DOMAINS
+<table> <tr> <td width="33%" valign="top"> <h3>PYTHON DEVELOPMENT</h3> <p> Python<br> Flask<br> Object-Oriented Programming<br> File Handling<br> Automation<br> Problem Solving </p> </td> <td width="33%" valign="top"> <h3>DATA SCIENCE</h3> <p> Data Analysis<br> Pandas<br> NumPy<br> Data Cleaning<br> Data Visualization<br> Machine Learning </p> </td> <td width="33%" valign="top"> <h3>DATABASES</h3> <p> SQL<br> MySQL<br> DBMS<br> Joins<br> Subqueries<br> Aggregate Functions </p> </td> </tr> </table>
