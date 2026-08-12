@@ -14,31 +14,21 @@
       <strong>DEVELOPER IDENTITY CARD</strong>
     </td>
   </tr>
-
   <tr>
     <td width="32%" align="center">
       <br>
-
       <img src="./assets/profile.png" alt="Madineni Pradeep Naidu" width="220">
-
       <br><br>
-
       <img src="https://img.shields.io/badge/PROFILE-VERIFIED-00FF41?style=for-the-badge&labelColor=0D1117" alt="Verified Profile">
-
       <br>
-
       <img src="https://img.shields.io/badge/ACCESS-DEVELOPER-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Developer Access">
     </td>
-
     <td width="68%">
-
       <h1>MADINENI PRADEEP NAIDU</h1>
-
       <p>
         <strong>PYTHON DEVELOPER</strong><br>
         <strong>FLASK • SQL • WEB • DATA SCIENCE</strong>
       </p>
-
       <pre>
 NAME         : PRADEEP
 STATUS       : ONLINE
@@ -48,21 +38,17 @@ LOCATION     : INDIA
 SPECIALITY   : PYTHON + FLASK + SQL + WEB
 ACCESS LEVEL : DEVELOPER
       </pre>
-
       <p>
         <a href="https://github.com/Madineni-Pradeep-Naidu">
           <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117" alt="GitHub">
         </a>
-
         <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
           <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D4FF&labelColor=0D1117" alt="LinkedIn">
         </a>
       </p>
-
     </td>
   </tr>
 </table>
-
 <!-- ============================================================ -->
 <!--                   TYPING ANIMATION                            -->
 <!-- ============================================================ -->
