@@ -1,142 +1,179 @@
 # 👋 Hello, I'm Madineni Pradeep Naidu
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:00FF41,100:00D4FF&text=PRADEEPMAD&fontColor=E6EDF3&fontSize=32&fontAlignY=35&animation=fadeIn&desc=Python%20%7C%20Flask%20%7C%20SQL%20%7C%20Web">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0D1117,45:00FF41,100:00D4FF&text=PRADEEPMAD&fontColor=E6EDF3&fontSize=36&fontAlignY=35&animation=fadeIn&desc=PYTHON%20%7C%20FLASK%20%7C%20SQL%20%7C%20WEB%20DEVELOPER&descAlignY=58&descSize=15" alt="Developer Banner">
+</p>
+
+<!-- ============================================================ -->
+<!--                    IDENTITY CARD                              -->
+<!-- ============================================================ -->
+
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <strong>DEVELOPER IDENTITY CARD</strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="32%" align="center">
+      <br>
+      <img src="./assets/profile.png" alt="Madineni Pradeep Naidu" width="220">
+      <br><br>
+      <img src="https://img.shields.io/badge/PROFILE-VERIFIED-00FF41?style=for-the-badge&labelColor=0D1117" alt="Verified Profile">
+      <br>
+      <img src="https://img.shields.io/badge/ACCESS-DEVELOPER-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Developer Access">
+    </td>
+    <td width="68%">
+      <h1>MADINENI PRADEEP NAIDU</h1>
+      <p>
+        <strong>PYTHON FULL STACK DEVELOPER</strong><br>
+        <strong>FLASK • SQL • WEB • DATA SCIENCE</strong>
+      </p>
+      <pre>
+ID           : PRD-2026
+STATUS       : ONLINE
+ROLE         : FULL STACK DEVELOPER
+EDUCATION    : B.TECH CSE • 2026
+LOCATION     : INDIA
+SPECIALITY   : PYTHON + FLASK + SQL + WEB
+ACCESS LEVEL : DEVELOPER
+      </pre>
+      <p>
+        <a href="https://github.com/Madineni-Pradeep-Naidu">
+          <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117" alt="GitHub">
+        </a>
+        <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+          <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D4FF&labelColor=0D1117" alt="LinkedIn">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- ============================================================ -->
+<!--                   TYPING ANIMATION                            -->
+<!-- ============================================================ -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=650&color=00FF41&center=true&vCenter=true&width=900&height=70&lines=Building+Python+applications;Creating+Flask+web+apps;Working+with+SQL+databases;Developing+full+stack+websites;Learning+Data+Science;Building+practical+projects;Learning+%E2%80%A2+Creating+%E2%80%A2+Improving" alt="Typing Animation">
+</p>
+
+<!-- ============================================================ -->
+<!--                      HEADER                                   -->
+<!-- ============================================================ -->
+
+<h1 align="center">MADINENI PRADEEP NAIDU</h1>
+
+<p align="center">
+  <strong>PYTHON FULL STACK DEVELOPER • FLASK • SQL • WEB</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-00FF41?style=flat-square&labelColor=0D1117&color=00FF41">
+  <img src="https://img.shields.io/badge/FLASK-00D4FF?style=flat-square&labelColor=0D1117&color=00D4FF">
+  <img src="https://img.shields.io/badge/SQL-7C3AED?style=flat-square&labelColor=0D1117&color=7C3AED">
+  <img src="https://img.shields.io/badge/WEB-E6EDF3?style=flat-square&labelColor=0D1117&color=E6EDF3">
 </p>
 
 ---
+
+<!-- ============================================================ -->
+<!--                   SECTION 1: ABOUT ME                         -->
+<!-- ============================================================ -->
 
 ## 🧑‍💻 About Me
 
-I'm a **Python Full Stack Developer** who builds websites using Flask, works with SQL databases, and loves Data Science. I create web applications from scratch using Python, HTML, CSS, and JavaScript.
+I am **Madineni Pradeep Naidu**, a **B.Tech Computer Science and Engineering graduate from the Batch of 2026**. I'm passionate about building practical applications using:
+
+- 🐍 **Python Development** - Building applications and automation tools
+- 🌐 **Flask Web Development** - Creating dynamic websites and web apps
+- 🗄️ **SQL & Databases** - Working with SQL, SQLite, and Backendless
+- 📊 **Data Science** - Data analysis, visualization, and insights
+- 💻 **Web Technologies** - HTML, CSS, JavaScript for frontend development
+
+I enjoy transforming ideas into real-world projects by combining programming, databases, analytics, and web technologies.
 
 ---
 
-## 🛠️ Skills
+<!-- ============================================================ -->
+<!--                  SECTION 2: CORE SKILLS                       -->
+<!-- ============================================================ -->
 
-### 🐍 Core Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+## 🛠️ My Core Skills
 
-### 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🐍 Python & Backend
+- Python Programming
+- Flask Framework
+- REST APIs
+- Object-Oriented Programming
+- File Handling & Automation
+- Problem Solving
+
+### 🌐 Web Development
+- HTML5
+- CSS3
+- JavaScript
+- Flask Templates (Jinja2)
+- Responsive Design
+- Web Applications
+
+### 🗄️ Databases
+- SQL
+- SQLite
+- Backendless
+- MySQL
+- Database Design
+- Query Optimization
 
 ### 📊 Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madineni-Pradeep-Naidu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=E6EDF3&icon_color=00D4FF&ring_color=00FF41" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madineni-Pradeep-Naidu&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=E6EDF3" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Madineni-Pradeep-Naidu&theme=dark&hide_border=true&background=0D1117&stroke=00D4FF&ring=00FF41&fire=00FF41">
-</p>
+- Data Analysis
+- Pandas
+- NumPy
+- Data Visualization
+- Data Cleaning
+- Statistical Analysis
 
 ---
 
-## 🤝 Connect With Me
+<!-- ============================================================ -->
+<!--                  SECTION 3: TECH STACK                        -->
+<!-- ============================================================ -->
 
-<p align="center">
-  <a href="https://github.com/Madineni-Pradeep-Naidu">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+## 💻 Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Languages">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Madineni-Pradeep-Naidu&label=Profile%20Views&color=00ff41&style=for-the-badge">
+### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Frameworks">
 </p>
 
----
-
-
-
----
-
-## 📈 GitHub Activity
-╔═══════════════════════════════════════════════════╗
-║                                                   ║
-║              MADINENI PRADEEP NAIDU                ║
-║           Python Full Stack Developer              ║
-║                                                   ║
-╠═══════════════════════════════════════════════════╣
-║                                                   ║
-║  $ whoami                                        ║
-║  >>> Full Stack Developer | Flask | SQL          ║
-║                                                   ║
-║  $ skills                                        ║
-║  >>> Python • Flask • SQL • HTML • CSS • JS     ║
-║  >>> Data Science • Pandas • NumPy              ║
-║                                                   ║
-║  $ projects                                      ║
-║  >>> Flask Web Apps • Database Solutions        ║
-║  >>> Data Analysis • Dynamic Websites           ║
-║                                                   ║
-║  $ status                                        ║
-║  >>> 🚀 BUILDING NEW PROJECTS                    ║
-║                                                   ║
-╠═══════════════════════════════════════════════════╣
-║                                                   ║
-║  [▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 100% ONLINE             ║
-║                                                   ║
-╚═══════════════════════════════════════════════════╝
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madineni-Pradeep-Naidu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=E6EDF3&icon_color=00D4FF&ring_color=00FF41" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madineni-Pradeep-Naidu&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=E6EDF3" width="48%">
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="Databases">
 </p>
 
-## 🔗 Network
-
-<p align="center">
-  <a href="https://github.com/Madineni-Pradeep-Naidu">[GitHub]</a> •
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">[LinkedIn]</a>
+### Data Science
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Madineni-Pradeep-Naidu&label=views&color=00ff41&style=flat-square">
-</p>
-
-╔═══════════════════════════════════════════════════╗
-║  ACCESS GRANTED • SYSTEM: ONLINE • BUILD: ACTIVE ║
-║  © 2026 Madineni Pradeep Naidu                   ║
-╚═══════════════════════════════════════════════════╝
----
-
-## 🔗 Connect
-
-<p align="center">
-  <a href="https://github.com/Madineni-Pradeep-Naidu">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Madineni-Pradeep-Naidu&label=Profile%20Views&color=00ff41&style=for-the-badge">
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools">
 </p>
 
 ---
 
-**💡 "Code. Build. Deploy. Repeat."**
-**🚀 Building the future with Python, Flask & SQL**
+<!-- ============================================================ -->
+<!--                  SECTION 4: DEVELOPMENT PROCESS               -->
+<!-- ============================================================ -->
+
+## 🔄 My Development Process
+
+```text
+💡 IDEATE → 📝 PLAN → 🏗️ BUILD → 🧪 TEST → 🚀 DEPLOY → 📈 IMPROVE
