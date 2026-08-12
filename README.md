@@ -14,21 +14,31 @@
       <strong>DEVELOPER IDENTITY CARD</strong>
     </td>
   </tr>
+
   <tr>
     <td width="32%" align="center">
       <br>
+
       <img src="./assets/profile.png" alt="Madineni Pradeep Naidu" width="220">
+
       <br><br>
+
       <img src="https://img.shields.io/badge/PROFILE-VERIFIED-00FF41?style=for-the-badge&labelColor=0D1117" alt="Verified Profile">
+
       <br>
+
       <img src="https://img.shields.io/badge/ACCESS-DEVELOPER-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Developer Access">
     </td>
+
     <td width="68%">
+
       <h1>MADINENI PRADEEP NAIDU</h1>
+
       <p>
         <strong>PYTHON DEVELOPER</strong><br>
         <strong>FLASK • SQL • WEB • DATA SCIENCE</strong>
       </p>
+
       <pre>
 NAME         : PRADEEP
 STATUS       : ONLINE
@@ -38,14 +48,17 @@ LOCATION     : INDIA
 SPECIALITY   : PYTHON + FLASK + SQL + WEB
 ACCESS LEVEL : DEVELOPER
       </pre>
+
       <p>
         <a href="https://github.com/Madineni-Pradeep-Naidu">
           <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117" alt="GitHub">
         </a>
+
         <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
           <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D4FF&labelColor=0D1117" alt="LinkedIn">
         </a>
       </p>
+
     </td>
   </tr>
 </table>
@@ -59,18 +72,11 @@ ACCESS LEVEL : DEVELOPER
 </p>
 
 <!-- ============================================================ -->
-<!--              NEW HEADER STYLE (GLOW EFFECT)                   -->
+<!--                      HEADER                                   -->
 <!-- ============================================================ -->
 
 <h1 align="center">
-  <span style="background: linear-gradient(45deg, #00FF41, #00D4FF, #7C3AED); 
-               -webkit-background-clip: text; 
-               -webkit-text-fill-color: transparent;
-               font-weight: 900;
-               font-size: 48px;
-               text-shadow: 0 0 30px rgba(0, 255, 65, 0.3);">
-    MADINENI PRADEEP NAIDU
-  </span>
+  MADINENI PRADEEP NAIDU
 </h1>
 
 <p align="center">
@@ -78,11 +84,11 @@ ACCESS LEVEL : DEVELOPER
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-00FF41?style=for-the-badge&labelColor=0D1117&color=00FF41">
-  <img src="https://img.shields.io/badge/FLASK-00D4FF?style=for-the-badge&labelColor=0D1117&color=00D4FF">
-  <img src="https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge&labelColor=0D1117&color=7C3AED">
-  <img src="https://img.shields.io/badge/WEB-E6EDF3?style=for-the-badge&labelColor=0D1117&color=E6EDF3">
-  <img src="https://img.shields.io/badge/DATA%20SCIENCE-FF6B6B?style=for-the-badge&labelColor=0D1117&color=FF6B6B">
+  <img src="https://img.shields.io/badge/PYTHON-00FF41?style=for-the-badge&labelColor=0D1117&color=00FF41" alt="Python">
+  <img src="https://img.shields.io/badge/FLASK-00D4FF?style=for-the-badge&labelColor=0D1117&color=00D4FF" alt="Flask">
+  <img src="https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge&labelColor=0D1117&color=7C3AED" alt="SQL">
+  <img src="https://img.shields.io/badge/WEB-E6EDF3?style=for-the-badge&labelColor=0D1117&color=E6EDF3" alt="Web">
+  <img src="https://img.shields.io/badge/DATA%20SCIENCE-FF6B6B?style=for-the-badge&labelColor=0D1117&color=FF6B6B" alt="Data Science">
 </p>
 
 ---
@@ -96,27 +102,31 @@ ACCESS LEVEL : DEVELOPER
 I am **Madineni Pradeep Naidu**, a **B.Tech Computer Science and Engineering graduate from the Batch of 2026**. I'm passionate about building practical applications using:
 
 - 🐍 **Python Development** - Building applications and automation tools
-- 🌐 **Flask Web Development** - Creating dynamic websites and web apps
-- 🗄️ **SQL & Databases** - Working with SQL, SQLite, and Backendless
+- 🌐 **Flask Web Development** - Creating dynamic websites and web applications
+- 🗄️ **SQL & Databases** - Working with SQL, SQLite, and backend databases
 - 📊 **Data Science** - Data analysis, visualization, and insights
-- 💻 **Web Technologies** - HTML, CSS, JavaScript for frontend development
+- 💻 **Web Technologies** - HTML, CSS, and JavaScript for frontend development
 
 I enjoy transforming ideas into real-world projects by combining programming, databases, analytics, and web technologies.
 
 ---
 
 <!-- ============================================================ -->
-<!--           NEW CORE SKILLS STYLE (CARDS WITH ICONS)           -->
+<!--                  SECTION 2: CORE SKILLS                       -->
 <!-- ============================================================ -->
 
 ## 🛠️ My Core Skills
 
 <table>
   <tr>
-    <td width="25%" align="center" style="border: 2px solid #00FF41; border-radius: 10px; padding: 15px;">
+
+    <td width="25%" align="center">
       <br>
+
       <img src="https://img.icons8.com/color/96/000000/python.png" width="60" height="60" alt="Python">
-      <h3 style="color: #00FF41;">🐍 Python</h3>
+
+      <h3>🐍 Python</h3>
+
       <p>
         <strong>Backend Development</strong><br>
         Flask Framework<br>
@@ -124,12 +134,17 @@ I enjoy transforming ideas into real-world projects by combining programming, da
         OOP & Automation<br>
         Problem Solving
       </p>
+
       <br>
     </td>
-    <td width="25%" align="center" style="border: 2px solid #00D4FF; border-radius: 10px; padding: 15px;">
+
+    <td width="25%" align="center">
       <br>
+
       <img src="https://img.icons8.com/color/96/000000/html-5.png" width="60" height="60" alt="Web">
-      <h3 style="color: #00D4FF;">🌐 Web</h3>
+
+      <h3>🌐 Web</h3>
+
       <p>
         <strong>Frontend & Backend</strong><br>
         HTML5 & CSS3<br>
@@ -137,12 +152,17 @@ I enjoy transforming ideas into real-world projects by combining programming, da
         Flask Templates<br>
         Responsive Design
       </p>
+
       <br>
     </td>
-    <td width="25%" align="center" style="border: 2px solid #7C3AED; border-radius: 10px; padding: 15px;">
+
+    <td width="25%" align="center">
       <br>
+
       <img src="https://img.icons8.com/color/96/000000/sql.png" width="60" height="60" alt="SQL">
-      <h3 style="color: #7C3AED;">🗄️ SQL</h3>
+
+      <h3>🗄️ SQL</h3>
+
       <p>
         <strong>Database Management</strong><br>
         SQL & SQLite<br>
@@ -150,12 +170,17 @@ I enjoy transforming ideas into real-world projects by combining programming, da
         Database Design<br>
         Query Optimization
       </p>
+
       <br>
     </td>
-    <td width="25%" align="center" style="border: 2px solid #FF6B6B; border-radius: 10px; padding: 15px;">
+
+    <td width="25%" align="center">
       <br>
+
       <img src="https://img.icons8.com/color/96/000000/data-configuration.png" width="60" height="60" alt="Data Science">
-      <h3 style="color: #FF6B6B;">📊 Data Science</h3>
+
+      <h3>📊 Data Science</h3>
+
       <p>
         <strong>Data Analysis</strong><br>
         Pandas & NumPy<br>
@@ -163,8 +188,10 @@ I enjoy transforming ideas into real-world projects by combining programming, da
         Data Cleaning<br>
         Statistical Analysis
       </p>
+
       <br>
     </td>
+
   </tr>
 </table>
 
@@ -177,38 +204,55 @@ I enjoy transforming ideas into real-world projects by combining programming, da
 ## 💻 Tech Stack
 
 ### Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Languages">
 </p>
 
 ### Frameworks & Libraries
+
 <p>
   <img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Frameworks">
 </p>
 
 ### Databases
+
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="Databases">
 </p>
 
 ### Data Science
+
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
 </p>
 
 ### Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools">
 </p>
 
 ---
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Madineni-Pradeep-Naidu&theme=dark&hide_border=true&background=0D1117&stroke=00D4FF&ring=00FF41&fire=00FF41&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=8B949E" alt="Contribution Streak"> </p>
 
 <!-- ============================================================ -->
 <!--                  SECTION 4: DEVELOPMENT PROCESS               -->
 <!-- ============================================================ -->
+
 ## 🔄 My Development Process
 
 ```text
-💡 IDEATE → 📝 PLAN → 🏗️ BUILD → 🧪 TEST → 🚀 DEPLOY → 📈 IMPROVE
+💡 IDEATE
+   ↓
+📝 PLAN
+   ↓
+🏗️ BUILD
+   ↓
+🧪 TEST
+   ↓
+🐛 DEBUG
+   ↓
+🚀 DEPLOY
+   ↓
+📈 IMPROVE
