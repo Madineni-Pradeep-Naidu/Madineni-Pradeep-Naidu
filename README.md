@@ -208,6 +208,16 @@ I enjoy transforming ideas into real-world projects by combining programming, da
 <!--                  SECTION 4: DEVELOPMENT PROCESS               -->
 <!-- ============================================================ -->
 
+┌────────────────────────────────────────────────────┐
+│               CURRENT PROJECTS                      │
+├────────────────────────────────────────────────────┤
+│ [✓] PYTHON APPLICATIONS                            │
+│ [✓] FLASK WEB APPS                                 │
+│ [✓] SQL DATABASE PROJECTS                          │
+│ [✓] FULL STACK WEBSITES                            │
+│ [✓] DATA SCIENCE ANALYSIS                          │
+│ [✓] WEB DEVELOPMENT PROJECTS                       │
+└────────────────────────────────────────────────────┘
 ## 🔄 My Development Process
 
 ```text
