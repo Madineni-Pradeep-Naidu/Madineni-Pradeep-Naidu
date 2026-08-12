@@ -70,16 +70,55 @@ I'm a **Python Full Stack Developer** who builds websites using Flask, works wit
 ---
 
 ## 📈 GitHub Activity
+╔═══════════════════════════════════════════════════╗
+║                                                   ║
+║              MADINENI PRADEEP NAIDU                ║
+║           Python Full Stack Developer              ║
+║                                                   ║
+╠═══════════════════════════════════════════════════╣
+║                                                   ║
+║  $ whoami                                        ║
+║  >>> Full Stack Developer | Flask | SQL          ║
+║                                                   ║
+║  $ skills                                        ║
+║  >>> Python • Flask • SQL • HTML • CSS • JS     ║
+║  >>> Data Science • Pandas • NumPy              ║
+║                                                   ║
+║  $ projects                                      ║
+║  >>> Flask Web Apps • Database Solutions        ║
+║  >>> Data Analysis • Dynamic Websites           ║
+║                                                   ║
+║  $ status                                        ║
+║  >>> 🚀 BUILDING NEW PROJECTS                    ║
+║                                                   ║
+╠═══════════════════════════════════════════════════╣
+║                                                   ║
+║  [▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 100% ONLINE             ║
+║                                                   ║
+╚═══════════════════════════════════════════════════╝
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Madineni-Pradeep-Naidu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=E6EDF3&icon_color=00D4FF&ring_color=00FF41" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madineni-Pradeep-Naidu&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=E6EDF3" width="48%">
 </p>
 
+## 🔗 Network
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Madineni-Pradeep-Naidu&theme=dark&hide_border=true&background=0D1117&stroke=00D4FF&ring=00FF41&fire=00FF41">
+  <a href="https://github.com/Madineni-Pradeep-Naidu">[GitHub]</a> •
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">[LinkedIn]</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Madineni-Pradeep-Naidu&label=views&color=00ff41&style=flat-square">
+</p>
+
+╔═══════════════════════════════════════════════════╗
+║  ACCESS GRANTED • SYSTEM: ONLINE • BUILD: ACTIVE ║
+║  © 2026 Madineni Pradeep Naidu                   ║
+╚═══════════════════════════════════════════════════╝
 ---
 
 ## 🔗 Connect
