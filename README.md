@@ -105,14 +105,10 @@ I enjoy transforming ideas into real-world projects by combining programming, da
 
 <table>
   <tr>
-
-    <td width="25%" align="center">
+    <td width="25%" align="center" style="border: 2px solid #00FF41; border-radius: 10px; padding: 15px;">
       <br>
-
       <img src="https://img.icons8.com/color/96/000000/python.png" width="60" height="60" alt="Python">
-
-      <h3>🐍 Python</h3>
-
+      <h3 style="color: #00FF41;">🐍 Python</h3>
       <p>
         <strong>Backend Development</strong><br>
         Flask Framework<br>
@@ -120,17 +116,12 @@ I enjoy transforming ideas into real-world projects by combining programming, da
         OOP & Automation<br>
         Problem Solving
       </p>
-
       <br>
     </td>
-
-    <td width="25%" align="center">
+    <td width="25%" align="center" style="border: 2px solid #00D4FF; border-radius: 10px; padding: 15px;">
       <br>
-
       <img src="https://img.icons8.com/color/96/000000/html-5.png" width="60" height="60" alt="Web">
-
-      <h3>🌐 Web</h3>
-
+      <h3 style="color: #00D4FF;">🌐 Web</h3>
       <p>
         <strong>Frontend & Backend</strong><br>
         HTML5 & CSS3<br>
@@ -138,17 +129,12 @@ I enjoy transforming ideas into real-world projects by combining programming, da
         Flask Templates<br>
         Responsive Design
       </p>
-
       <br>
     </td>
-
-    <td width="25%" align="center">
+    <td width="25%" align="center" style="border: 2px solid #7C3AED; border-radius: 10px; padding: 15px;">
       <br>
-
       <img src="https://img.icons8.com/color/96/000000/sql.png" width="60" height="60" alt="SQL">
-
-      <h3>🗄️ SQL</h3>
-
+      <h3 style="color: #7C3AED;">🗄️ SQL</h3>
       <p>
         <strong>Database Management</strong><br>
         SQL & SQLite<br>
@@ -156,17 +142,12 @@ I enjoy transforming ideas into real-world projects by combining programming, da
         Database Design<br>
         Query Optimization
       </p>
-
       <br>
     </td>
-
-    <td width="25%" align="center">
+    <td width="25%" align="center" style="border: 2px solid #FF6B6B; border-radius: 10px; padding: 15px;">
       <br>
-
       <img src="https://img.icons8.com/color/96/000000/data-configuration.png" width="60" height="60" alt="Data Science">
-
-      <h3>📊 Data Science</h3>
-
+      <h3 style="color: #FF6B6B;">📊 Data Science</h3>
       <p>
         <strong>Data Analysis</strong><br>
         Pandas & NumPy<br>
@@ -174,10 +155,8 @@ I enjoy transforming ideas into real-world projects by combining programming, da
         Data Cleaning<br>
         Statistical Analysis
       </p>
-
       <br>
     </td>
-
   </tr>
 </table>
 
