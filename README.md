@@ -42,7 +42,7 @@ ACCESS LEVEL : DEVELOPER
         <a href="https://github.com/Madineni-Pradeep-Naidu">
           <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117" alt="GitHub">
         </a>
-        <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+        <a href="https://www.linkedin.com/in/pradeepmadineni/">
           <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D4FF&labelColor=0D1117" alt="LinkedIn">
         </a>
       </p>
@@ -369,7 +369,7 @@ FOCUS         : FULL STACK WEB DEVELOPMENT + DATA SCIENCE
     >
   </a>
 
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="https://www.linkedin.com/in/pradeepmadineni/">
     <img
       src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D4FF&labelColor=0D1117"
       alt="LinkedIn"
@@ -380,7 +380,7 @@ FOCUS         : FULL STACK WEB DEVELOPMENT + DATA SCIENCE
 
 ```text
 GITHUB    : https://github.com/Madineni-Pradeep-Naidu
-LINKEDIN  : https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
+LINKEDIN  : https://www.linkedin.com/in/pradeepmadineni
 ```
 
 ---
