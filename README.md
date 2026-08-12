@@ -17,7 +17,7 @@
   <tr>
     <td width="32%" align="center">
       <br>
-      <img src="./assets/profile.png" alt="Madineni Pradeep Naidu" width="220">
+      <img src="Pradeep.jpg" alt="Madineni Pradeep Naidu" width="220">
       <br><br>
       <img src="https://img.shields.io/badge/PROFILE-VERIFIED-00FF41?style=for-the-badge&labelColor=0D1117" alt="Verified Profile">
       <br>
@@ -101,67 +101,101 @@ I enjoy transforming ideas into real-world projects by combining programming, da
 <!--                  SECTION 2: CORE SKILLS                       -->
 <!-- ============================================================ -->
 
-## 🛠️ My Core Skills
+<!-- ============================================================ -->
+<!--                    CORE SKILLS                               -->
+<!-- ============================================================ -->
+
+<h2>🛠️ My Core Skills</h2>
 
 <table>
-  <tr>
-    <td width="25%" align="center" style="border: 2px solid #00FF41; border-radius: 10px; padding: 15px;">
-      <br>
-      <img src="https://img.icons8.com/color/96/000000/python.png" width="60" height="60" alt="Python">
-      <h3 style="color: #00FF41;">🐍 Python</h3>
-      <p>
-        <strong>Backend Development</strong><br>
-        Flask Framework<br>
-        REST APIs<br>
-        OOP & Automation<br>
-        Problem Solving
-      </p>
-      <br>
-    </td>
-    <td width="25%" align="center" style="border: 2px solid #00D4FF; border-radius: 10px; padding: 15px;">
-      <br>
-      <img src="https://img.icons8.com/color/96/000000/html-5.png" width="60" height="60" alt="Web">
-      <h3 style="color: #00D4FF;">🌐 Web</h3>
-      <p>
-        <strong>Frontend & Backend</strong><br>
-        HTML5 & CSS3<br>
-        JavaScript<br>
-        Flask Templates<br>
-        Responsive Design
-      </p>
-      <br>
-    </td>
-    <td width="25%" align="center" style="border: 2px solid #7C3AED; border-radius: 10px; padding: 15px;">
-      <br>
-      <img src="https://img.icons8.com/color/96/000000/sql.png" width="60" height="60" alt="SQL">
-      <h3 style="color: #7C3AED;">🗄️ SQL</h3>
-      <p>
-        <strong>Database Management</strong><br>
-        SQL & SQLite<br>
-        MySQL<br>
-        Database Design<br>
-        Query Optimization
-      </p>
-      <br>
-    </td>
-    <td width="25%" align="center" style="border: 2px solid #FF6B6B; border-radius: 10px; padding: 15px;">
-      <br>
-      <img src="https://img.icons8.com/color/96/000000/data-configuration.png" width="60" height="60" alt="Data Science">
-      <h3 style="color: #FF6B6B;">📊 Data Science</h3>
-      <p>
-        <strong>Data Analysis</strong><br>
-        Pandas & NumPy<br>
-        Data Visualization<br>
-        Data Cleaning<br>
-        Statistical Analysis
-      </p>
-      <br>
-    </td>
-  </tr>
+<tr>
+
+<td align="center" width="16.66%">
+
+<img src="https://cdn.simpleicons.org/python/3776AB" width="55" height="55" alt="Python">
+
+<h3>🐍 Python</h3>
+
+<strong>Backend</strong><br>
+Flask<br>
+REST APIs<br>
+OOP<br>
+Automation
+
+</td>
+
+<td align="center" width="16.66%">
+
+<img src="https://cdn.simpleicons.org/html5/E34F26" width="55" height="55" alt="HTML5">
+
+<h3>🌐 Web</h3>
+
+<strong>Development</strong><br>
+HTML5<br>
+CSS3<br>
+JavaScript<br>
+Responsive Design
+
+</td>
+
+<td align="center" width="16.66%">
+
+<img src="https://cdn.simpleicons.org/mysql/4479A1" width="55" height="55" alt="MySQL">
+
+<h3>🗄️ SQL</h3>
+
+<strong>Database</strong><br>
+MySQL<br>
+SQL Queries<br>
+Joins<br>
+Database Design
+
+</td>
+
+<td align="center" width="16.66%">
+
+<img src="https://cdn.simpleicons.org/pandas/150458" width="55" height="55" alt="Pandas">
+
+<h3>📊 Data Science</h3>
+
+<strong>Analysis</strong><br>
+Pandas<br>
+NumPy<br>
+Visualization<br>
+Data Cleaning
+
+</td>
+
+<td align="center" width="16.66%">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+
+<h3>📈 Power BI</h3>
+
+<strong>BI & Analytics</strong><br>
+Dashboards<br>
+DAX<br>
+Data Modeling<br>
+Visualization
+
+</td>
+
+<td align="center" width="16.66%">
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" width="120" height="40" alt="Microsoft Excel">
+
+<h3>📗 Excel</h3>
+
+<strong>Data Analysis</strong><br>
+Formulas<br>
+Pivot Tables<br>
+Charts<br>
+Data Cleaning
+
+</td>
+
+</tr>
 </table>
-
----
-
 <!-- ============================================================ -->
 <!--                  SECTION 3: TECH STACK                        -->
 <!-- ============================================================ -->
@@ -228,24 +262,19 @@ I enjoy transforming ideas into real-world projects by combining programming, da
 <!-- ============================================================ -->
 <!--               SECTION 5: GITHUB STATISTICS                    -->
 <!-- ============================================================ -->
+<!-- ============================================================ -->
+<!--               SECTION 5: GITHUB STATISTICS                    -->
+<!-- ============================================================ -->
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Madineni-Pradeep-Naidu&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=E6EDF3&icon_color=00D4FF"
-    alt="GitHub Statistics"
-  />
+  <img src="https://github-stats-extended.vercel.app/api?username=Madineni-Pradeep-Naidu&show_icons=true&theme=default" alt="GitHub Statistics" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madineni-Pradeep-Naidu&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=E6EDF3"
-    alt="Top Languages"
-  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Madineni-Pradeep-Naidu&layout=compact&theme=default" alt="Top Languages" />
 </p>
-
----
 
 ## 🔥 Contribution Streak
 
